@@ -70,11 +70,11 @@ My educational journey started with a focus on Bilingual Translation at universi
 
 ### 🚀 Continuous Learning
 
-🎓 **Full Stack Bootcamp:** In 2021, I completed a Full Stack Web Developer Bootcamp on Udemy. The bootcamp sharpened my skills in HTML, CSS, JavaScript, Node.js, Express.js, React, and MongoDB. It was an intensive and enriching experience that pushed me to new heights.
+🎓 **Full Stack Bootcamp:** In 2021, I completed a Full Stack Web Developer Bootcamp on [UDEMY](udemy.com). The bootcamp sharpened my skills in **HTML, CSS, JavaScript, Node.js, Express.js, React, and MongoDB**. It was an intensive and enriching experience that pushed me to new heights.
 
-🔧 **WordPress Expertise:** Simultaneously, I dived into the Advanced WordPress Bootcamp at Digital Valley (EPITECH) in November 2022. It was a significant chapter in my journey, equipping me with valuable expertise  in creating user friendly interfaces , web design , Project management .
+🔧 **WordPress Expertise:** Simultaneously, I dived into the Advanced WordPress Bootcamp at **Digital Valley** **[EPITECH](https://epitech.bj/)** in November 2022. It was a significant chapter in my journey, equipping me with valuable expertise  in creating user friendly interfaces , web design , Project management .
 
-🧠 **Software Engineering Journey:** May 2023 marked the beginning of my Software Engineering Backend Java Pathway powered by SOURCEMIND AND WEBB FONTAINE. This comprehensive program encompassed front-end development, computer science, advanced DevOps with Linux, Nginx, Docker, Git, and a deep dive into Java. Topics like Design Patterns, Solid Principles, Spring, and Spring Boot were part of my daily explorations, complemented by real-world projects that put theory into practice.
+🧠 **Software Engineering Journey:** May 2023 marked the beginning of my Software Engineering Backend Java Pathway powered by **[SOURCEMIND](https://sourcemind.com/)** AND **[WEBB FONTAINE](https://webbfontaine.com/)**. This comprehensive program encompassed **front-end development, computer science, advanced DevOps with Linux, Nginx, Docker, Git, and a deep dive into Java. Topics like Design Patterns, Solid Principles, Spring, and Spring Boot** were part of my daily explorations, complemented by **real-world projects** that put theory into practice.
 
 ### 🌟 Connect with Me
 
